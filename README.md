@@ -1,2 +1,2 @@
-# C-app
-This is a simple applicaton with C++ with basic maths: solving equations and finding of a cube
+# Electron Calculator
+A desktop based calculator built by Electron JS framework
